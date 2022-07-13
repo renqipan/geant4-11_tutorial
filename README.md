@@ -7,10 +7,10 @@ cmake ..
 make  
 ./sim     
 # Branches:  
-There are four branches: main, master, pet  
-main: energy deposiztion radioactive decay  
-master: particle tranverse through atmosphere,  
+There are four branches: main, master, pet,tof  
+1) main: energy deposiztion radioactive decay  
+2) master: particle tranverse through atmosphere,  
         cosmics showers with atmospheric model  
-pet: A model for Positron Emitted Tomography system,  
+3) pet: A model for Positron Emitted Tomography system,  
      detector two photons from radioactive decay  
-tof: time of flight      
+4) tof: time of flight      
