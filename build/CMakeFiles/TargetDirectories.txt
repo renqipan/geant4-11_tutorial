@@ -1,0 +1,4 @@
+/home/renqi/Documents/geant4/Geant4_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/renqi/Documents/geant4/Geant4_tutorial/build/CMakeFiles/Simulation.dir
+/home/renqi/Documents/geant4/Geant4_tutorial/build/CMakeFiles/edit_cache.dir
+/home/renqi/Documents/geant4/Geant4_tutorial/build/CMakeFiles/sim.dir
