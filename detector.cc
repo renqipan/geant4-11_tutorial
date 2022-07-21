@@ -2,8 +2,7 @@
 
 MySensitiveDetector::MySensitiveDetector(G4String name) : G4VSensitiveDetector(name)
 {
-    quEff = new G4PhysicsFreeVector();
-    
+    quEff = new G4PhysicsOrderedFreeVector();
     std::ifstream datafile;
     datafile.open("eff.dat");
     
