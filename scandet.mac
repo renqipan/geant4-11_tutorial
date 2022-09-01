@@ -1,3 +1,4 @@
 /detector/nCols {sensors}
 /run/reinitializeGeometry
+/run/initialize
 /run/beamOn 100
