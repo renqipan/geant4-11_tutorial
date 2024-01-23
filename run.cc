@@ -17,6 +17,7 @@ MyRunAction::MyRunAction()
     man->CreateNtupleDColumn("fX");
     man->CreateNtupleDColumn("fY");
     man->CreateNtupleDColumn("fZ");
+    man->CreateNtupleDColumn("fWlen");
     man->FinishNtuple(1);
     
     man->CreateNtuple("Scoring", "Scoring");
